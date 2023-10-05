@@ -25,7 +25,9 @@ Projeto Fokus feito durante os Cursos de JavaScript: manipulando elementos no DO
 * Implementar objeto Date
 * Armazenar, consultar e manipular dados localmente no navegador com o localStorage
 * Manipular botões do formulário
-  
+
+# Link do projeto: https://fokus-taupe.vercel.app/
+
 ## Feito por:
 ### Priscila Ribeiro
 
